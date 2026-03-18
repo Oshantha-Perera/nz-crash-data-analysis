@@ -22,3 +22,4 @@ Key Insights
 Higher speed limits are strongly associated with increased crash severity
 Weather conditions significantly influence accident rates
 Certain regions consistently report higher crash frequency
+![Dashboard](dashboard.png 1.png)
