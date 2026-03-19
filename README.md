@@ -24,7 +24,7 @@ Weather conditions significantly influence accident rates
 Certain regions consistently report higher crash frequency
 ### 📷 Dashboard Preview
 
-![Dashboard 1](dashboard1.png)
-![Dashboard 2](dashboard2.png)
-![Dashboard 3](dashboard3.png)
-![Dashboard 4](dashboard4.png)
+![Dashboard1](dashboard1.png)
+![Dashboard2](dashboard2.png)
+![Dashboard3](dashboard3.png)
+![Dashboard4](dashboard4.png)
