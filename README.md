@@ -1,28 +1,28 @@
-NZ Crash Data Analysis
+###NZ Crash Data Analysis
 
-Project Overview
+###Project Overview
 
 This project analyses road crash data in New Zealand to identify key factors influencing crash severity and road safety outcomes. The analysis focuses on understanding patterns related to speed limits, weather conditions, and regional differences.
 
-Objective
+###Objective
 
 To examine the relationship between environmental and road factors and crash severity, and generate insights to support data-driven decision making in road safety.
 
-Tools Used
+###Tools Used
 
 Excel (data cleaning and analysis)
 Power BI (dashboard development and visualization)
 
-Dataset
+###Dataset
 
 New Zealand Crash Analysis System (CAS) dataset (cleaned and prepared for analysis).
 
-Key Insights
+###Key Insights
 
 Higher speed limits are strongly associated with increased crash severity
 Weather conditions significantly influence accident rates
 Certain regions consistently report higher crash frequency
-### 📷 Dashboard Preview
+### Dashboard Preview
 
 ![Dashboard1](Dashboard1.png)
 ![Dashboard2](Dashboard2.png)
